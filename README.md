@@ -25,23 +25,23 @@ Sometimes they break without my help.
 **🔐 Security**
 
 - Security Testing Methodology
-- Vulnventory
-- RSA Secure Document Processor
-- Python / Bash security automation
+- Vulnventory (Python) 
+- RSA Secure Document Processor (Python) 
+- Python / Bash security automation 
 
 **🤖 AI / Data**
 
-- BLEVE pressure prediction model
-- MCP experiments & AI agent tooling
-- QTB investment portfolio
+- BLEVE pressure prediction model (Jupyter Notebook - Python) 
+- MCP experiments & AI agent tooling (MCP - Python) 
+- Quantitative investment portfolio (R) 
 
 **💻 Software / Systems**
 
-- Connect Four
-- Nutrition Tracker
-- Multi-process prime checker in C
-- Airline route-planning system
-- Railway network simulation
+- Connect Four Game (Kotlin) 
+- Nutrition Tracker (Kotlin) 
+- Multi-process prime checker (C)
+- Airline route-planning system (Java) 
+- Railway network simulation (Java)
 
 ---
 
