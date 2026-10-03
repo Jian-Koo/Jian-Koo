@@ -47,11 +47,11 @@ Sometimes they break without my help.
 
 ### things i use
 
-`Python` `C` `Java` `Bash` `Linux` `Git`
+`Python` `C` `Java` `Bash` `Linux` `Git` `Kotlin` `SQL`
 
 `Nmap` `Burp Suite` `BloodHound` `Impacket` `Certipy`
 
-`PyTorch` `Pandas` `Power BI`
+`PyTorch` `Pandas` `Scikit-Learn` `Power BI`
 
 and whatever Stack Overflow / documentation convinces me to install that day.
 
@@ -73,7 +73,7 @@ building → breaking → debugging → coffee → repeat
 
 ### find me
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto\:YOUR_EMAIL) · [GitHub](YOUR_GITHUB_URL)
+[LinkedIn](https://www.linkedin.com/in/jiankoo3125/) · [Email](mailto\:jianhengkoo2003@gmail.com) · [GitHub](https://github.com/Jian-Koo)
 
 ---
 
