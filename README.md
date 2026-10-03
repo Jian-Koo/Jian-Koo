@@ -77,4 +77,4 @@ building → breaking → debugging → coffee → repeat
 
 ---
 
-\<sub>probably working on something unnecessary right now.\</sub>
+<sub>probably working on something unnecessary right now.</sub>
