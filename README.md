@@ -1,4 +1,4 @@
-# hey, i'm Jian 👋
+# hey, i'm Jian Heng — Jian works too 👋
 
 **computing grad · making stuff, learning stuff, occasionally breaking stuff · fueled by coffee ☕**
 
