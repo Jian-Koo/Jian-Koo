@@ -1,6 +1,6 @@
 # hey, i'm Jian Heng — Jian works too 👋
 
-**computing grad · making stuff, learning stuff, occasionally breaking stuff · fueled by coffee ☕**
+**cyber security grad · making stuff, learning stuff, occasionally breaking stuff · fueled by coffee ☕**
 
 I like building things around **security, software, AI, and systems** — usually whatever looks interesting enough to make me lose track of time.
 
